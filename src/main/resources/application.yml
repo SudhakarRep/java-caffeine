@@ -1,0 +1,12 @@
+spring:
+    cache:
+        cache-names: instruments, directory, city
+        caffeine:
+            spec: maximumSize=500, expireAfterAccess=30m
+
+logging:
+  pattern:
+    console: "%-5level - %msg%n"
+  level:
+    - error
+    - com.app=trace

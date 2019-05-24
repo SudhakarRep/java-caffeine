@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot - java-caffeine
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: sudhakar.avise
+Implementation-Vendor-Id: com.app
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://java.com
+Created-By: Maven Integration for Eclipse
+
